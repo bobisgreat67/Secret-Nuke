@@ -1,6 +1,6 @@
-# 🚀 Discord Link (for support): discord.gg/secretservices
-
 # 🚀 Discord Nuke Tool - Installation Guide
+
+Discord Link (for support): discord.gg/secretservices
 
 ---
 
